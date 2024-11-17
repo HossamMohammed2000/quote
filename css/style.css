@@ -1,0 +1,35 @@
+h1{
+    color: #333;
+    margin-block: 53.600px;
+    font-weight:700 ;
+    font-size: 80px;
+}
+.quote-box{
+    background-color: #ffffff;
+    color: #555;
+   
+    margin: auto;
+}
+#quote{
+    font-size: 20px;
+    color: #333;
+}
+#author{
+    font-size: 16px;
+    color: #666;
+}
+p{
+    margin-block: 35px;
+    font-size: 35px;
+}
+.my-quotes-btn{
+    width: 250px;
+    height: 80px;
+    padding-block: 1px;
+    padding-inline: 6px;
+    background-color: #0000FF;
+    
+}
+.my-quotes-btn:hover{
+    background-color: green;
+}
